@@ -1,0 +1,43 @@
+.title {
+    background-image : url("../images/apple-pie.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin: auto;
+    width: 100%;
+}
+
+li, p, h2, h1 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+
+h2, h1 {
+    font-weight: bold;
+}
+
+.image {
+    margin: auto;
+    width: 50%;
+}
+
+.image img {
+    width: 250px;
+    height: auto;
+    padding-left: 50px;
+}
+
+.apple-pies {
+    color: aliceblue;
+    font-size: 5em;
+    margin: auto;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.instruction {
+    margin: auto;
+    width: 80%;
+}
+
